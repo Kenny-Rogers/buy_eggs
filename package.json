@@ -1,0 +1,25 @@
+{
+  "name": "buy_eggs",
+  "version": "1.0.0",
+  "description": "shopping website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kenny-Rogers/buy_eggs.git"
+  },
+  "author": "kenny-rogers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kenny-Rogers/buy_eggs/issues"
+  },
+  "homepage": "https://github.com/Kenny-Rogers/buy_eggs#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "joi": "^14.3.0"
+  }
+}
